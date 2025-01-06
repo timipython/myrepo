@@ -7,5 +7,3 @@ instagram succedd654
 =======
 see you there 
 >>>>>>> refs/remotes/origin/main
-[
-teksphere  account
